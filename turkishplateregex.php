@@ -14,7 +14,6 @@ $GLOBALS['regexPlate2'] = "/\b\d{2}[a-zA-Z]{1,3}\d{2,5}\b/"; // 99X99 ~ 99XXX999
  * */
  
  /**
- * Metnin içerisinde plaka arar. Bulamazsa boş array döner.
  * @param  string $plate
  * @return boolean
  */
